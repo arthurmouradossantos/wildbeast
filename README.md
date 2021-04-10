@@ -3,7 +3,7 @@
 
 ## Sobre
 
-Este projeto é apenas um layoutde uma página (sem funcionalidades). Este foi resultado do curso de CSS GRID, da Origamid.
+Este projeto é apenas um layout de uma página (sem funcionalidades). Este foi resultado do curso de CSS GRID, da Origamid.
 
 ## Tecnologias Utilizadas
 
